@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for a CNN app
+Home-page: https://github.com/faridkhan5/Chest-Cancer-Classification-Project
+Author: faridkhan5
+Author-email: faridk302@gmail.com
+Project-URL: Bug Tracker, https://github.com/faridkhan5/Chest-Cancer-Classification-Project/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Chest-Cancer-Classification-using-MLflow-DVC
