@@ -1,1 +1,123 @@
 [2024-03-28 03:07:11,881: INFO: main: Welcome to cnnClassifier!]
+[2024-04-01 22:10:30,030: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-01 22:10:30,040: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-01 22:13:50,323: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-01 22:13:50,327: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-01 23:41:42,993: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-01 23:41:42,997: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-01 23:42:41,308: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-01 23:42:41,312: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-01 23:42:41,315: INFO: common: created directory at: artifacts]
+[2024-04-01 23:42:41,317: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-01 23:42:41,320: INFO: 3975838558: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-01 23:42:55,268: INFO: 3975838558: Downloaded data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-01 23:43:58,921: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-01 23:43:58,925: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-01 23:43:58,927: INFO: common: created directory at: artifacts]
+[2024-04-01 23:43:58,929: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-01 23:43:58,930: INFO: 3069421107: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-01 23:44:09,804: INFO: 3069421107: Downloaded data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-01 23:46:11,434: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-01 23:46:11,444: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-01 23:46:11,445: INFO: common: created directory at: artifacts]
+[2024-04-01 23:46:11,447: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-01 23:46:11,448: INFO: 2336601768: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-01 23:46:23,189: INFO: 2336601768: Downloaded data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 00:30:18,152: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-02 00:30:18,154: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-02 00:30:18,155: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-02 00:30:18,156: INFO: common: created directory at: artifacts]
+[2024-04-02 00:30:18,156: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-02 00:30:18,156: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 00:30:28,489: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 00:30:30,744: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x============x]
+[2024-04-02 00:52:00,796: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-02 00:52:00,797: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-02 00:52:00,798: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-02 00:52:00,798: INFO: common: created directory at: artifacts]
+[2024-04-02 00:52:00,798: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-02 00:52:00,799: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 00:52:11,246: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 00:52:13,302: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x============x]
+[2024-04-02 01:46:03,075: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-02 01:46:03,077: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-02 01:46:03,077: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-02 01:46:03,078: INFO: common: created directory at: artifacts]
+[2024-04-02 01:46:03,078: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-02 01:46:03,078: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 01:46:13,737: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 01:46:15,747: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x============x]
+[2024-04-02 02:00:52,997: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-02 02:00:52,998: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-02 02:00:52,999: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-02 02:00:52,999: INFO: common: created directory at: artifacts]
+[2024-04-02 02:00:53,000: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-02 02:00:53,000: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 02:01:04,205: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 02:01:06,180: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x============x]
+[2024-04-02 02:10:23,331: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-02 02:10:23,332: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-02 02:10:23,332: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-02 02:10:23,333: INFO: common: created directory at: artifacts]
+[2024-04-02 02:10:23,333: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-02 02:10:23,334: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 02:10:34,511: ERROR: main: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?/export=download&id=1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV
+
+but Gdown can't. Please check connections and permissions.]
+Traceback (most recent call last):
+  File "/home/rooot/miniconda3/envs/cancer/lib/python3.8/site-packages/gdown/download.py", line 253, in download
+    url = get_url_from_gdrive_confirmation(res.text)
+  File "/home/rooot/miniconda3/envs/cancer/lib/python3.8/site-packages/gdown/download.py", line 54, in get_url_from_gdrive_confirmation
+    raise FileURLRetrievalError(
+gdown.exceptions.FileURLRetrievalError: Cannot retrieve the public link of the file. You may need to change the permission to 'Anyone with the link', or have had many accesses. Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    obj.main()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 26, in main
+    data_ingestion.download_file()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/components/data_ingestion.py", line 38, in download_file
+    raise e
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/components/data_ingestion.py", line 34, in download_file
+    gdown.download(prefix+file_id, zip_download_dir)
+  File "/home/rooot/miniconda3/envs/cancer/lib/python3.8/site-packages/gdown/download.py", line 264, in download
+    raise FileURLRetrievalError(message)
+gdown.exceptions.FileURLRetrievalError: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?/export=download&id=1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV
+
+but Gdown can't. Please check connections and permissions.
+[2024-04-02 02:15:35,961: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-02 02:15:35,963: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-02 02:15:35,964: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-02 02:15:35,964: INFO: common: created directory at: artifacts]
+[2024-04-02 02:15:35,964: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-02 02:15:35,964: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 02:15:47,093: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1bfhjpjUK-fqTwzKv50BLuMv8NWvv2agV/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-02 02:15:49,061: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x============x]
