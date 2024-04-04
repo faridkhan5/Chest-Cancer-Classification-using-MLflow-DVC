@@ -166,3 +166,211 @@ x============x]
 [2024-04-02 16:42:06,617: INFO: main: >>>>> stage Prepare base model completed <<<<< 
 
 x========x]
+[2024-04-05 00:42:22,966: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 00:42:22,979: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 00:42:22,982: INFO: common: created directory at: artifacts]
+[2024-04-05 00:42:22,987: INFO: common: created directory at: artifacts/training]
+[2024-04-05 00:43:58,273: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 00:43:58,278: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 00:43:58,280: INFO: common: created directory at: artifacts]
+[2024-04-05 00:43:58,282: INFO: common: created directory at: artifacts/training]
+[2024-04-05 00:44:18,770: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 00:44:18,775: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 00:44:18,777: INFO: common: created directory at: artifacts]
+[2024-04-05 00:44:18,779: INFO: common: created directory at: artifacts/training]
+[2024-04-05 00:46:36,420: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 00:46:36,424: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 00:46:36,426: INFO: common: created directory at: artifacts]
+[2024-04-05 00:46:36,428: INFO: common: created directory at: artifacts/training]
+[2024-04-05 00:50:39,890: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 00:50:39,895: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 00:50:39,897: INFO: common: created directory at: artifacts]
+[2024-04-05 00:50:39,898: INFO: common: created directory at: artifacts/training]
+[2024-04-05 00:53:18,970: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 00:53:18,974: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 00:53:18,978: INFO: common: created directory at: artifacts]
+[2024-04-05 00:53:18,979: INFO: common: created directory at: artifacts/training]
+[2024-04-05 00:53:32,121: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 00:53:32,129: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 00:53:32,131: INFO: common: created directory at: artifacts]
+[2024-04-05 00:53:32,133: INFO: common: created directory at: artifacts/training]
+[2024-04-05 00:53:45,771: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 00:53:45,777: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 00:53:45,779: INFO: common: created directory at: artifacts]
+[2024-04-05 00:53:45,781: INFO: common: created directory at: artifacts/training]
+[2024-04-05 01:44:23,816: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 01:44:23,821: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 01:44:23,824: INFO: common: created directory at: artifacts]
+[2024-04-05 01:44:23,825: INFO: common: created directory at: artifacts/training]
+[2024-04-05 01:47:24,268: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 01:47:24,272: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 01:47:24,275: INFO: common: created directory at: artifacts]
+[2024-04-05 01:47:24,277: INFO: common: created directory at: artifacts/training]
+[2024-04-05 02:09:53,842: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:09:53,855: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:09:53,859: INFO: common: created directory at: artifacts]
+[2024-04-05 02:09:53,862: INFO: common: created directory at: artifacts/training]
+[2024-04-05 02:19:12,201: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:19:12,209: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:19:12,216: INFO: common: created directory at: artifacts]
+[2024-04-05 02:19:12,219: INFO: common: created directory at: artifacts/training]
+[2024-04-05 02:19:56,810: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:19:56,818: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:19:56,820: INFO: common: created directory at: artifacts]
+[2024-04-05 02:19:56,822: INFO: common: created directory at: artifacts/training]
+[2024-04-05 02:32:26,705: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-05 02:32:26,707: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:32:26,710: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:32:26,711: INFO: common: created directory at: artifacts]
+[2024-04-05 02:32:26,712: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-05 02:32:26,712: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1AVNl-HYOCiQmfCtECfc0Ig_ERWYsk38x/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-05 02:32:27,995: ERROR: main: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?/export=download&id=1AVNl-HYOCiQmfCtECfc0Ig_ERWYsk38x
+
+but Gdown can't. Please check connections and permissions.]
+Traceback (most recent call last):
+  File "/home/rooot/miniconda3/envs/cancer/lib/python3.8/site-packages/gdown/download.py", line 253, in download
+    url = get_url_from_gdrive_confirmation(res.text)
+  File "/home/rooot/miniconda3/envs/cancer/lib/python3.8/site-packages/gdown/download.py", line 54, in get_url_from_gdrive_confirmation
+    raise FileURLRetrievalError(
+gdown.exceptions.FileURLRetrievalError: Cannot retrieve the public link of the file. You may need to change the permission to 'Anyone with the link', or have had many accesses. Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 11, in <module>
+    obj.main()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 26, in main
+    data_ingestion.download_file()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/components/data_ingestion.py", line 38, in download_file
+    raise e
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/components/data_ingestion.py", line 34, in download_file
+    gdown.download(prefix+file_id, zip_download_dir)
+  File "/home/rooot/miniconda3/envs/cancer/lib/python3.8/site-packages/gdown/download.py", line 264, in download
+    raise FileURLRetrievalError(message)
+gdown.exceptions.FileURLRetrievalError: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?/export=download&id=1AVNl-HYOCiQmfCtECfc0Ig_ERWYsk38x
+
+but Gdown can't. Please check connections and permissions.
+[2024-04-05 02:32:57,296: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-05 02:32:57,299: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:32:57,300: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:32:57,300: INFO: common: created directory at: artifacts]
+[2024-04-05 02:32:57,300: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-05 02:32:57,301: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1AVNl-HYOCiQmfCtECfc0Ig_ERWYsk38x/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-05 02:33:03,096: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1AVNl-HYOCiQmfCtECfc0Ig_ERWYsk38x/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-05 02:33:03,963: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x============x]
+[2024-04-05 02:33:03,963: INFO: main: ****************]
+[2024-04-05 02:33:03,963: INFO: main: >>>>> stage Prepare base model started <<<<<]
+[2024-04-05 02:33:03,967: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:33:03,970: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:33:03,970: INFO: common: created directory at: artifacts]
+[2024-04-05 02:33:03,971: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-04-05 02:33:04,869: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-04-05 02:33:05,209: INFO: main: >>>>> stage Prepare base model completed <<<<< 
+
+x========x]
+[2024-04-05 02:33:34,044: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:33:34,050: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:33:34,052: INFO: common: created directory at: artifacts]
+[2024-04-05 02:33:34,056: INFO: common: created directory at: artifacts/training]
+[2024-04-05 02:44:21,760: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-05 02:44:21,762: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:44:21,767: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:44:21,769: INFO: common: created directory at: artifacts]
+[2024-04-05 02:44:21,769: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "main.py", line 13, in <module>
+    obj.main()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 20, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'
+[2024-04-05 02:46:30,735: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-05 02:46:30,737: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:46:30,739: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:46:30,739: INFO: common: created directory at: artifacts]
+[2024-04-05 02:46:30,739: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "main.py", line 13, in <module>
+    obj.main()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 20, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'
+[2024-04-05 02:49:22,993: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-05 02:49:22,997: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:49:22,999: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:49:22,999: INFO: common: created directory at: artifacts]
+[2024-04-05 02:49:22,999: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "main.py", line 13, in <module>
+    obj.main()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 20, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'
+[2024-04-05 02:53:54,020: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-05 02:53:54,021: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:53:54,023: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:53:54,023: INFO: common: created directory at: artifacts]
+[2024-04-05 02:53:54,023: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "main.py", line 13, in <module>
+    obj.main()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 20, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'
+[2024-04-05 02:58:22,534: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-05 02:58:22,541: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 02:58:22,547: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 02:58:22,580: INFO: common: created directory at: artifacts]
+[2024-04-05 02:58:22,581: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config']
+Traceback (most recent call last):
+  File "main.py", line 13, in <module>
+    obj.main()
+  File "/mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/src/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 20, in main
+    data_ingestion_config = config.get_data_ingestion_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_ingestion_config'
+[2024-04-05 03:01:43,112: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-04-05 03:01:43,113: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 03:01:43,114: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 03:01:43,115: INFO: common: created directory at: artifacts]
+[2024-04-05 03:01:43,115: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-05 03:01:43,115: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1AVNl-HYOCiQmfCtECfc0Ig_ERWYsk38x/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-05 03:01:49,779: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1AVNl-HYOCiQmfCtECfc0Ig_ERWYsk38x/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-04-05 03:01:50,657: INFO: main: >>>>> stage Data Ingestion stage completed <<<<< 
+
+x============x]
+[2024-04-05 03:01:50,658: INFO: main: ****************]
+[2024-04-05 03:01:50,658: INFO: main: >>>>> stage Prepare base model started <<<<<]
+[2024-04-05 03:01:50,662: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 03:01:50,666: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 03:01:50,666: INFO: common: created directory at: artifacts]
+[2024-04-05 03:01:50,667: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-04-05 03:01:51,642: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-04-05 03:01:51,909: INFO: main: >>>>> stage Prepare base model completed <<<<< 
+
+x========x]
+[2024-04-05 03:01:51,909: INFO: main: ****************]
+[2024-04-05 03:01:51,910: INFO: main: >>>>> stage Training started <<<<<]
+[2024-04-05 03:01:51,912: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-04-05 03:01:51,913: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-05 03:01:51,913: INFO: common: created directory at: artifacts]
+[2024-04-05 03:01:51,914: INFO: common: created directory at: artifacts/training]
+[2024-04-05 03:03:28,147: INFO: main: >>>>> stage Training completed <<<<< 
+
+x========x]
