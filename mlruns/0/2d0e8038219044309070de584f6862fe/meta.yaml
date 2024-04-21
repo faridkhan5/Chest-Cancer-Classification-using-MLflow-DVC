@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/2d0e8038219044309070de584f6862fe/artifacts
+end_time: 1713365515678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d0e8038219044309070de584f6862fe
+run_name: stately-zebra-949
+run_uuid: 2d0e8038219044309070de584f6862fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713365499123
+status: 3
+tags: []
+user_id: rooot

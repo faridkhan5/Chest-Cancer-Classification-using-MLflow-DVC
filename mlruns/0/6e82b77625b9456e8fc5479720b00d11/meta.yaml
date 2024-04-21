@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/f/DS_Tech_Stack/MLOps/Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/6e82b77625b9456e8fc5479720b00d11/artifacts
+end_time: 1713366690275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e82b77625b9456e8fc5479720b00d11
+run_name: serious-skink-922
+run_uuid: 6e82b77625b9456e8fc5479720b00d11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713366679228
+status: 3
+tags: []
+user_id: rooot
