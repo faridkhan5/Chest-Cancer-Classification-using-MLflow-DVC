@@ -38,7 +38,7 @@ This project leverages the VGG-16 CNN model to classify chest cancer from medica
 
 MLFLOW_TRACKING_URI=https://dagshub.com/faridkhan5/Chest-Cancer-Classification-using-MLflow-DVC.mlflow \
 MLFLOW_TRACKING_USERNAME=faridkhan5 \
-MLFLOW_TRACKING_PASSWORD=801f7f4defd33f302dd86616acda87ee94a5d725 \
+MLFLOW_TRACKING_PASSWORD= \
 python script.py
 
 Run this to export as env variables:
@@ -49,7 +49,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/faridkhan5/Chest-Cancer-Classific
 
 export MLFLOW_TRACKING_USERNAME=faridkhan5
 
-export MLFLOW_TRACKING_PASSWORD=801f7f4defd33f302dd86616acda87ee94a5d725
+export MLFLOW_TRACKING_PASSWORD=
 
 ```
 
