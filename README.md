@@ -1,4 +1,5 @@
 # Chest-Cancer-Classification-using-MLflow-DVC
+![website img](chest_cancer_website_img.png)
 
 ## About
 This project leverages the VGG-16 CNN model to classify chest cancer from medical imaging data. It is built around a modular pipeline that leverages tools like MLflow, DVC, Docker, and GitHub Actions. Deployment is managed on AWS EC2 via Docker images stored in Amazon ECR.
